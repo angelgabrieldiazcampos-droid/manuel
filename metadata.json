@@ -1,0 +1,7 @@
+{
+  "name": "Sensores - Manuel",
+  "description": "An interactive chat simulation for technical training in a factory environment, featuring an AI-powered boss 'Manuel' who assesses students.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
